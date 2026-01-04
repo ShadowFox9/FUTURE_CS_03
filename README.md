@@ -58,11 +58,10 @@ FUTURE_CS_03/
 ## ▶️ How to Run
 ```bash
 python app.py
-
 http://127.0.0.1:5000
 
 👤 Author
-
 Ngwoke Makuochukwu Mark
 Cybersecurity intern at Future Intern
+
 
